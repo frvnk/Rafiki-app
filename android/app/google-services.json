@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451212589701",
+    "project_id": "rafi-b8918",
+    "storage_bucket": "rafi-b8918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451212589701:android:3bcf7b2d1d8a638afec7ec",
+        "android_client_info": {
+          "package_name": "com.example.rafi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0oW5FGZTYliEtDACcl8wBBLcETMNrVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
